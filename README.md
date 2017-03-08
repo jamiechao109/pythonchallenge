@@ -2,7 +2,7 @@
 Jamie_pythonchallenge
 
 
-Level_0: http://www.pythonchallenge.com/pc/def/0.html
+Level_0: http://www.pythonchallenge.com/pc/def/0.html \n
 Level_1: http://www.pythonchallenge.com/pc/def/274877906944.html
 Level_2: http://www.pythonchallenge.com/pc/def/ocr.html
 Level_3:
